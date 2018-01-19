@@ -1,0 +1,14 @@
+# Apex Simulator
+This project helps to implement a cycle-by-cycle simulator for an out-of-order APEX pipeline.
+It also has a forwarding mechanism for handling dependency. 
+I have added the test input file with isnstructions. 
+
+
+When we run the project, we get the below options -
+
+ Simulator 
+
+		1) Initialize   //Initializes all the Registers
+		2) simulate:    // Number of cycles you want to simulate
+		3) Display Memory Locations    // The Memory address values
+		4) Exit        // Exit the program
